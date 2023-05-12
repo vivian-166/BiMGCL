@@ -1,0 +1,6 @@
+*.npz
+*.pyc
+*.m
+*.wcbpc
+train_logs/
+*.out
