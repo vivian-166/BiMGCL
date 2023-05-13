@@ -1,4 +1,6 @@
 # BiMGCL
+![](https://zenodo.org/badge/doi/10.5281/zenodo.7932312.svg)
+
 Source code for paper **BiMGCL: Rumor Detection via Bi-directional Multi-level Graph Contrastive Learning**, PeerJ Computer Science, 2023.
 
 ## Dependencies
