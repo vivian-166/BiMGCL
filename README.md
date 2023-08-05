@@ -20,10 +20,10 @@ python ./Model/train.py Twitter16 100 # Run BiMGCL for 100 epochs on Twitter16 d
 ```
 
 ## Dataset
-We use Twitter15 and Twitter16 dataset for the experiment.    
-To learn more about the dataset, please refer to [RvNN](https://github.com/majingCUHK/Rumor_RvNN) for more details.
+The datasets used in the experiments were based on the two publicly available Twitter datasets released by Ma et al. (2017):
+
+    Jing Ma, Wei Gao, Kam-Fai Wong. Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning. ACL 2017.
+
+In the 'data' folder we provide the pre-processed data files used for our experiments. The raw datasets can be downloaded from https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0. To learn more about the dataset, please refer to [RvNN](https://github.com/majingCUHK/Rumor_RvNN) for more details.
 
 **If you find this code useful, please cite our paper.**
-
-
-
